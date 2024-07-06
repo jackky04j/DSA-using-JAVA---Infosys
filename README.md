@@ -1,1 +1,1 @@
-# DSA-using-JAVA---Infosys
+# Infosys_Java_DSA
